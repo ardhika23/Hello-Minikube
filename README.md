@@ -14,7 +14,7 @@
 
 ## Questions and Answers
 
-### -> Reflection on Hello Minikuube
+### -> Reflection on Hello Minikube
 
 ![alt text](image.png)
 
